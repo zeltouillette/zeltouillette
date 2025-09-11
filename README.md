@@ -5,8 +5,8 @@
   🌱 I’m currently learning GLua (again)<br />
   📫 How to reach me : zeltouillette.dev@gmail.com<br />
   ⚡ Last Word : Love yourself :3
-  <img src="https://komarev.com/ghpvc/?username=zeltouillette&label=Profile%20views&color=0e75b6&style=flat" alt="zeltouillette"
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeltouillette&label=Profile%20views&color=0e75b6&style=flat" alt="zeltouillette" /> </p>
 
 <hr>
 
