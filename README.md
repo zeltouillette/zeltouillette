@@ -23,5 +23,5 @@
 - 🛠  Hammer (Source Engine)
 ---
 
-💬 **Want to talk ?** Come say hi !
+💬 **Want to talk ?** Come say hi !<br />
 <img alt="Static Badge" src="https://img.shields.io/badge/My%20Discord-purple?logo=discord&logoColor=white&logoSize=auto&color=%236600ff&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F914598756492652585">
