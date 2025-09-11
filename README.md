@@ -8,19 +8,22 @@
 </p>
 
 ---
-
-## 🔧 <span style="color:#FF8C00;">Languages</span>  
-💻 **My skills :**  
-<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeltouillette&label=Profile%20views&color=0e75b6&style=flat" alt="zeltouillette" /> </p>
+---
+<p align="center">
+  🔧 <span style="color:#FF8C00;">Languages</span>  
+  💻 <b>My skills :</b>
   <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 </p>
-
-🛠 **Engines & Tools**  
-- 🛠  Hammer (Source Engine)
+---
+<p>
+  🛠 <b>Engines & Tools</b>
+  - 🛠  Hammer (Source Engine)
+</p>
 ---
 <p align="center">
 💬 <b>Want to talk ?</b> Come say hi !<br />
