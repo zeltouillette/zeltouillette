@@ -8,6 +8,7 @@
 </p>
 
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeltouillette&label=Profile%20views&color=0e75b6&style=flat" alt="zeltouillette" /> </p>
 ---
 
@@ -19,7 +20,6 @@
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-</p>
 </p>
 ---
 
