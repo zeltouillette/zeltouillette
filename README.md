@@ -7,10 +7,11 @@
   ⚡ Last Word : Love yourself :3
 </p>
 
----
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeltouillette&label=Profile%20views&color=0e75b6&style=flat" alt="zeltouillette" /> </p>
----
+
+<hr>
 
 ## 🔧 <span style="color:#FF8C00;">Compétences</span>  
 💻 **Langages & Tech**  
@@ -21,11 +22,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 </p>
----
+
+<hr>
 
 🛠 **Engines & Tools**
 - 🛠  Hammer (Source Engine)
----
+
+<hr>
 
 <p align="center">
 💬 <b>Want to talk ?</b> Come say hi !<br />
