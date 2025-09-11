@@ -1,9 +1,9 @@
 <h1 align="center">Hellow! I'm <span style="color:#4444;">Zelta</span> !</h1>
 
 <p align="center">
-  🔭 I’m currently studying at <b>EPSIC, Lausanne, Switzerland</b>
-  🌱 I’m currently learning GLua (again)
-  📫 How to reach me : zeltouillette.dev@gmail.com
+  🔭 I’m currently studying at <b>EPSIC, Lausanne, Switzerland</b><br />
+  🌱 I’m currently learning GLua (again)<br />
+  📫 How to reach me : zeltouillette.dev@gmail.com<br />
   ⚡ Last Word : Love yourself :3
 </p>
 
@@ -23,4 +23,5 @@
 - 🛠  Hammer (Source Engine)
 ---
 
-💬 **Want to talk ?** Here is ![My Discord](https://img.shields.io/badge/My%20Discord-purple?logo=discord&logoColor=white&logoSize=auto&color=%236600ff&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F914598756492652585) !
+💬 **Want to talk ?** Come say hi !
+[My Discord](https://img.shields.io/badge/My%20Discord-purple?logo=discord&logoColor=white&logoSize=auto&color=%236600ff&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F914598756492652585) !
