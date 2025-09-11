@@ -11,8 +11,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeltouillette&label=Profile%20views&color=0e75b6&style=flat" alt="zeltouillette" /> </p>
 ---
 <p align="center">
-  🔧 <span style="color:#FF8C00;">Languages</span>  
-  💻 <b>My skills :</b>
+  🔧 <span style="color:#FF8C00;">Languages</span><br /> 
+  💻 <b>My skills :</b><br />
   <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
@@ -21,7 +21,7 @@
 </p>
 ---
 <p>
-  🛠 <b>Engines & Tools</b>
+  🛠 <b>Engines & Tools</b><br />
   - 🛠  Hammer (Source Engine)
 </p>
 ---
