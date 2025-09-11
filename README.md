@@ -1,20 +1,26 @@
-<h1 align="center">Hellow! I'm Zelta !</h1>
-<h3 align="center">A swiss random dev who loves ice cream :p</h3>
+<h1 align="center">Hellow! I'm <span style="color:#4444;">Zelta</span> !</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeltouillette&label=Profile%20views&color=0e75b6&style=flat" alt="zeltouillette" /> </p>
-
-- 🔭 I’m currently studying at **EPSIC, Lausanne, Switzerland**
-
-- 🌱 I’m currently learning (again) **GLua**
-
-- 📫 How to reach me : **zeltouillette.dev@gmail.com**
-
-- ⚡ Last Word : **Love yourself :3**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/zeltouillette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeltouillette" height="30" width="40" /></a>
+<p align="center">
+  🔭 I’m currently studying at <b>EPSIC, Lausanne, Switzerland</b>
+  🌱 I’m currently learning GLua (again)
+  📫 How to reach me : zeltouillette.dev@gmail.com
+  ⚡ Last Word : Love yourself :3
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🔧 <span style="color:#FF8C00;">Languages</span>  
+💻 **My skills :**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+</p>
+
+🛠 **Engines & Tools**  
+- 🛠  Hammer (Source Engine)
+---
+
+💬 **Want to talk ?** Here is ![My Discord](https://img.shields.io/badge/My%20Discord-purple?logo=discord&logoColor=white&logoSize=auto&color=%236600ff&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F914598756492652585) !
