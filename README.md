@@ -15,9 +15,9 @@
 
 ## 🔧 Languages & Tech  
 💻 **Expertise** <br />
-    (⌐■_■)
+    (⌐■_■)<br />
 💻 **Proficiency** <br />
-    (⌐■_■)
+    (⌐■_■)<br />
 💻 **Familiarity**  <br />
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" />
