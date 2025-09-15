@@ -13,8 +13,12 @@
 
 ---
 
-## 🔧 Compétences  
-💻 **Langages & Tech**  
+## 🔧 Languages & Tech  
+💻 **Expertise** 
+    (⌐■_■)
+💻 **Proficiency** 
+    (⌐■_■)
+💻 **Familiarity**  
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white" />
