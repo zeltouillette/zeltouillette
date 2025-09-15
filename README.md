@@ -14,11 +14,11 @@
 ---
 
 ## 🔧 Languages & Tech  
-💻 **Expertise** 
+💻 **Expertise** <br />
     (⌐■_■)
-💻 **Proficiency** 
+💻 **Proficiency** <br />
     (⌐■_■)
-💻 **Familiarity**  
+💻 **Familiarity**  <br />
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white" />
