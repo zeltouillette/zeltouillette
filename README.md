@@ -16,11 +16,11 @@
 
 ###
 
-<p align="center">👨‍💻 Newbie developper (yeah I'm not so cool)<br>🎂 17 years old with all his teeth<br>✈️ I'm from Switzerland (not Sweden, and I'm (not) rich)<br>🗣I'm speaking french but I'M NOT FRENCH. btw i'm speaking english too (what a discovery!!)<br>🤖 Fun fact : I was coding and debuging the code, but it didnt work. I was just debuging the client side on the server side. Very cleaver.</p>
+<p align="center">👨‍💻 Newbie developper (yeah I'm not so cool)<br>🎂 18 years old with all his teeth<br>✈️ I'm from Switzerland (not Sweden, and I'm (not) rich)<br>🗣I'm speaking french but I'M NOT FRENCH. btw i'm speaking english too (what a discovery!!)<br>🤖 Fun fact : I was coding and debuging the code, but it didnt work. I was just debuging the client side on the server side. Very cleaver.</p>
 
 ###
 
-<h1 align="center">📩You want to contact me ? Contact me</h1>
+<h1 align="center">📩You want to contact me ? I dont see why but feel free to do so :</h1>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="center">📌Most of my skills are in lua, especially in GLua, its basiclly Lua but for Garry's Mod, a sandbox game.<br>📝I also have the basics in python, html and CSS.<br>💭I dont want to lean new languages for now, but maybe when I will be more advenced in my career.</p>
+<p align="center">📌Most of my skills are in lua, especially in GLua, its basiclly Lua but for Garry's Mod, a sandbox game.<br>📝I also have the basics in python, html and CSS.<br>💭Im really not active on dev, so not new languages for now.</p>
 
 ###
 
