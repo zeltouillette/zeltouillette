@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C39BD3&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+zeltouillette+%21;Swiss+%28not+Swedish%29+developer;GLua+enjoyer+on+Garry%27s+Mod;Debugging+the+client+on+the+server..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C39BD3&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+zeltouillette+%21;Founder+%26+president+of+Atelier+1896;Building+websites+with+Laravel;Swiss+%28not+Swedish%29+developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,15 +21,39 @@
 
 ## 🧍‍♂️ What about me ?
 
-```lua
-local zelta = {
-    role      = "Newbie developer (yeah I'm not so cool)",
-    age       = 18, -- with all his teeth
-    country   = "🇨🇭 Switzerland (not Sweden, and I'm (not) rich)",
-    languages = { "Français (BUT I'M NOT FRENCH)", "English (what a discovery!!)" },
-    funFact   = "I was debugging the client side... on the server side. Very clever.",
-}
+```php
+$zelta = [
+    'role'      => "Founder & president of Atelier 1896",
+    'dev'       => "Self-taught web developer (still not so cool)",
+    'age'       => 18, // with all his teeth
+    'country'   => "🇨🇭 Switzerland (not Sweden, and I'm (not) rich)",
+    'languages' => ["Français (BUT I'M NOT FRENCH)", "English (what a discovery!!)"],
+    'past'      => "GLua on Garry's Mod (retired, RIP)",
+    'funFact'   => "I once debugged the client side... on the server side. Very clever.",
+];
 ```
+
+---
+
+## 🎨 Atelier 1896
+
+<p align="center"><i>A non-profit association from Vouvry (Valais, Switzerland) that brings together creative people from the Chablais : photography, graphic and traditional drawing, video editing, and much more.</i></p>
+
+I founded **Atelier 1896** in 2026 and I'm its president. The name comes from 1896, the year Vouvry became an independent municipality (we found that elegant).
+
+I also take care of the tech side :
+
+- 🌐 **The website** : presentation, portfolio, rates and quote requests, with its own admin panel
+- 🔐 **The members' space** : an intranet for accounts, mandates, tasks and files, with two-factor authentication
+- 🛠️ Both are built with **Laravel** and **MariaDB**, hosted on Infomaniak, and the public pages use **zero cookies**
+
+<div align="center">
+
+<a href="https://atelier1896.ch" target="_blank"><img src="https://img.shields.io/badge/atelier1896.ch-6c3483?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.instagram.com/atelier1896.ch" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@atelier1896.ch" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+
+</div>
 
 ---
 
@@ -37,13 +61,13 @@ local zelta = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,python,html,css&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,python,git&theme=dark" alt="skills" />
 
 </div>
 
-- 📌 Most of my skills are in **Lua**, especially **GLua** — basically Lua but for *Garry's Mod*, a sandbox game.
-- 📝 I also have the basics in **Python**, **HTML** and **CSS**.
-- 💭 I'm really not active on dev, so no new languages for now.
+- 🐘 These days I mostly do **PHP** with **Laravel** (+ MariaDB) : that's what runs the Atelier 1896 website and members' space.
+- 📝 I also use **HTML**, **CSS**, a bit of **JavaScript** and **Python**.
+- 🪦 I used to code in **GLua** (Lua for *Garry's Mod*), but that's in the past now.
 
 ---
 
